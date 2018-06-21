@@ -1,0 +1,30 @@
+#container-one, #container-two {
+
+     width: 200px;
+     height:200px;
+     border: 2px solid black;
+}
+
+.img-01 {
+  background-image: url(/images/inverted-dice-1.svg);
+}
+
+.img-02 {
+  background-image: url(/images/inverted-dice-2.svg);
+}
+
+.img-03 {
+  background-image: url(/images/inverted-dice-3.svg);
+}
+
+.img-04 {
+  background-image: url(/images/inverted-dice-4.svg);
+}
+
+.img-05 {
+  background-image: url(/images/inverted-dice-5.svg);
+}
+
+.img-06 {
+  background-image: url(/images/inverted-dice-6.svg);
+}
